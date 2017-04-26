@@ -6,9 +6,7 @@ date: 2017-04-26 21:09:00 Z
 Pisze pisze.
 
 * raz
-
 * dwa
-
 * trzy
 
 ---
