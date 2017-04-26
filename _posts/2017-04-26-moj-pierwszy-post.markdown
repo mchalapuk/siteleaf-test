@@ -9,6 +9,10 @@ Pisze pisze.
 * dwa
 * trzy
 
+1. drugie raz
+2. dwa
+3. trzy
+
 ---
 
 ![obrazek](http://www.tapetynaplochu.org/tapety/tapetynaplochu-org-1280x1024-23072008115942.jpg)
