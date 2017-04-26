@@ -25,4 +25,4 @@ Pisze pisze.
 
 ---
 
-![obrazek](http://www.tapetynaplochu.org/tapety/tapetynaplochu-org-1280x1024-23072008115942.jpg)
+![biedronka](http://www.tapetynaplochu.org/tapety/tapetynaplochu-org-1280x1024-23072008115942.jpg)
