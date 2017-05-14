@@ -11,3 +11,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+top categories:
+  Moda: Sztuka Ubioru
+  Makijaż: Sztuka Makijażu
+  Kuchnia: Sztuka Gotowania
+  Sztuka: Sztuka dla Sztuki
+  O mnie: Kim jest Olela
