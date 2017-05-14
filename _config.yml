@@ -11,7 +11,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-top categories:
+topLinks:
   Moda: Sztuka Ubioru
   Makijaż: Sztuka Makijażu
   Kuchnia: Sztuka Gotowania
